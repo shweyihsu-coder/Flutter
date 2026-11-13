@@ -1,5 +1,4 @@
-/* import 'package:material_ui/material_ui.dart';
-
+import 'package:flutter/material.dart';
 /// Flutter code sample for [AppBar].
 
 void main() => runApp(const AppBarApp());
@@ -61,4 +60,3 @@ class AppBarExample extends StatelessWidget {
     );
   }
 }
- */

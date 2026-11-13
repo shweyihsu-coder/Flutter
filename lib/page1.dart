@@ -1,4 +1,4 @@
-
+/* 
 import 'package:flutter/material.dart';
 import 'package:tutorials/page2.dart';
 
@@ -28,4 +28,4 @@ class _MyPage1State extends State<MyPage1> {
 
     ],),);
   }
-}
+} */
